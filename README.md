@@ -31,7 +31,6 @@ AI 연구원으로 일하며, 비전·음성·RAG/LLM을 엮은 시스템을 프
 | 🏗️ **[facility-damage-ai-platform](https://github.com/baduli5741/facility-damage-ai-platform)** | 사진 한 장으로 공공시설 파손 신고 → YOLO 2단계(탐지+분할) 손상도 산정 → RAG+LLM 자동 보고서까지 잇는 풀스택 플랫폼 (FastAPI, Chroma, Ollama) |
 | 🗣️ **4도 방언 민원 음성 데이터셋 파이프라인** | 시나리오 생성 → TTS(Typecast) → RVC/GPT-SoVITS 보이스 컨버전까지 잇는 합성 음성 데이터 파이프라인. [`korean-dialect-complaint-generator`](https://github.com/sukoji/korean-dialect-complaint-generator), [`vocast`](https://github.com/sukoji/vocast)에 다수 PR merge |
 | 🎮 **[souls_Save_Manager](https://github.com/baduli5741/souls_Save_Manager)** | FromSoftware 소울라이크(DS3·엘든링·세키로) 세이브파일 매니저 (C#) — NexusMods **4,000+ 다운로드** |
-| 🌀 **[cross-lingual-voice-cloning](https://github.com/baduli5741/cross-lingual-voice-cloning)** | 애니메이션 캐릭터 음색으로 한국어를 합성하는 크로스링구얼 보이스 클로닝 실험 |
 | 🛒 **[ecommerce-bigdata-analysis](https://github.com/baduli5741/ecommerce-bigdata-analysis)** | RFM 기반 고객 등급 분류 + 재구매/이탈 패턴 분석 (팀 프로젝트) |
 
 ### 🛠 Stack
