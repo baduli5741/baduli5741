@@ -32,6 +32,7 @@
 | 🎮 **[souls_Save_Manager](https://github.com/baduli5741/souls_Save_Manager)** | Dark Souls 시리즈 세이브파일 매니저 (C#) — NexusMods **4,000+ 다운로드** |
 | 🗺️ **realestate-map** | "연봉이 오르면 주변 집값도 오르나" 가설을 국토부 실거래가 + 지도 API로 검증하는 데이터 시각화 프로젝트 |
 | 🌀 **[cross-lingual-voice-cloning](https://github.com/baduli5741/cross-lingual-voice-cloning)** | 애니메이션 캐릭터 음색으로 한국어를 합성하는 크로스링구얼 보이스 클로닝 실험 |
+| 🛒 **[ecommerce-bigdata-analysis](https://github.com/baduli5741/ecommerce-bigdata-analysis)** | RFM 기반 고객 등급 분류 + 재구매/이탈 패턴 분석 (팀 프로젝트) |
 
 ### 🛠 Stack
 
