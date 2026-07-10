@@ -1,6 +1,6 @@
 <div align="center">
 
-# ho_dev
+# HO_dev
 ### AI Researcher & Software Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=baduli5741&color=414868&style=flat-square&label=Profile+views)
