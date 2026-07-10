@@ -45,9 +45,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baduli5741&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=baduli5741&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baduli5741&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
