@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e2030,100:414868&height=200&section=header&text=baduli5741&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Voice%20AI%20%26%20Data%20Pipeline%20Engineer&descAlignY=58&descSize=18&descColor=a9b1d6)
+# baduli5741
+### Voice AI & Data Pipeline Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=baduli5741&color=414868&style=flat-square&label=Profile+views)
 ![Followers](https://img.shields.io/github/followers/baduli5741?color=414868&style=flat-square&label=Followers)
