@@ -3,12 +3,14 @@
 # HO_dev
 ### AI Researcher & Software Engineer
 
-![Profile views](https://komarev.com/ghpvc/?username=baduli5741&color=414868&style=flat-square&label=Profile+views)
-![Followers](https://img.shields.io/github/followers/baduli5741?color=414868&style=flat-square&label=Followers)
+![Profile views](https://komarev.com/ghpvc/?username=baduli5741&color=2ea44f&style=flat-square&label=Profile+views)
+![Followers](https://img.shields.io/github/followers/baduli5741?color=2ea44f&style=flat-square&label=Followers)
 
 </div>
 
-### 👋 소개
+<br>
+
+![소개](https://img.shields.io/badge/소개-2ea44f?style=for-the-badge)
 
 AI 연구원으로 일하며, 비전·음성·RAG/LLM을 엮은 시스템을 프로토타입부터 끝까지 직접 만듭니다.
 
@@ -17,14 +19,18 @@ AI 연구원으로 일하며, 비전·음성·RAG/LLM을 엮은 시스템을 프
 - 🗺️ 공공데이터·지도 API 기반 데이터 파이프라인/시각화
 - 🎮 게임 모딩 툴 개발 (C#, NexusMods 4,000+ 다운로드)
 
-### 🎓 소속
+<br>
+
+![소속](https://img.shields.io/badge/소속-2ea44f?style=for-the-badge)
 
 | 기간 | 소속 |
 |---|---|
 | 2026.07 ~ | 포스텍(POSTECH) 인공지능연구원 |
 | ~ 2026.02 | 광운대학교 소프트웨어학부 인공지능전공 |
 
-### 🚀 프로젝트
+<br>
+
+![프로젝트](https://img.shields.io/badge/프로젝트-2ea44f?style=for-the-badge)
 
 | 프로젝트 | 설명 |
 |---|---|
@@ -34,18 +40,25 @@ AI 연구원으로 일하며, 비전·음성·RAG/LLM을 엮은 시스템을 프
 | 🛒 **[ecommerce-bigdata-analysis](https://github.com/baduli5741/ecommerce-bigdata-analysis)** | RFM 기반 고객 등급 분류 + 재구매/이탈 패턴 분석 (팀 프로젝트) |
 | 🎬 **[anime-speaker-extraction](https://github.com/baduli5741/anime-speaker-extraction)** | 자막 있는 애니메이션에서 캐릭터별 (오디오, 텍스트) 클립 추출 — CTC 강제정렬 + VAD + 화자 임베딩, 클라우드 API 없이 완전 로컬 |
 
-### 🛠 Stack
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Naver Cloud Platform](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
-
-### 📊 Stats
+![Stack](https://img.shields.io/badge/Stack-2ea44f?style=for-the-badge)
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=baduli5741&theme=tokyonight&hide_border=true)
+![Skills](https://skillicons.dev/icons?i=python,csharp,pytorch,fastapi,sqlite,git&theme=dark)
+
+</div>
+
+![Naver Cloud Platform](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-2ea44f?style=flat-square&logo=ollama&logoColor=white)
+
+<br>
+
+![Stats](https://img.shields.io/badge/Stats-2ea44f?style=for-the-badge)
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=baduli5741&theme=merko&hide_border=true)
 
 </div>
