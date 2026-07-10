@@ -1,7 +1,7 @@
 <div align="center">
 
-# baduli5741
-### Voice AI & Data Pipeline Engineer
+# ho_dev
+### AI Researcher & Software Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=baduli5741&color=414868&style=flat-square&label=Profile+views)
 ![Followers](https://img.shields.io/github/followers/baduli5741?color=414868&style=flat-square&label=Followers)
@@ -10,12 +10,12 @@
 
 ### 👋 소개
 
-음성 합성·보이스 컨버전 데이터 파이프라인과 실거래가/공공데이터 기반 사이드 프로젝트를 만듭니다.
-아이디어를 끝까지 파이프라인으로 완성하는 걸 좋아하고, 게임 모딩 커뮤니티에서도 도구를 만들어 왔습니다.
+AI 연구원으로 일하며, 비전·음성·RAG/LLM을 엮은 시스템을 프로토타입부터 끝까지 직접 만듭니다.
 
-- 🎙️ 방언 음성 합성 (TTS → RVC / GPT-SoVITS) 데이터 파이프라인 설계 및 운영
-- 🗺️ 공공데이터·지도 API를 엮은 데이터 시각화 사이드 프로젝트
-- 🎮 Dark Souls 시리즈용 세이브 매니저 개발 (NexusMods 4,000+ 다운로드)
+- 🏗️ Full-stack AI 플랫폼 — YOLO 비전탐지 + RAG/LLM 챗봇 + FastAPI 백엔드 통합 시스템
+- 🎙️ 음성 합성·보이스 컨버전 (TTS → RVC / GPT-SoVITS) 데이터 파이프라인 설계 및 운영
+- 🗺️ 공공데이터·지도 API 기반 데이터 파이프라인/시각화
+- 🎮 게임 모딩 툴 개발 (C#, NexusMods 4,000+ 다운로드)
 
 ### 🎓 소속
 
